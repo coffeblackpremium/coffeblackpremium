@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jdamaceno19)
 
 
-![coffeblackpremium GitHub stats](https://github-readme-stats.vercel.app/api?username=coffeblackpremium&show_icons=true&theme=dracula)
+![coffeblackpremium GitHub stats](https://github-readme-stats.vercel.app/api?username=coffeblackpremium&show_icons=true&theme=dar)
 
 
 ## Technologies used
@@ -17,7 +17,8 @@
     <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-   
+    <img align="center" alt="manjaro" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
+
 </div><br/>
 Love for technology, seeking to always improve and seek the best possible result 
 <br>
