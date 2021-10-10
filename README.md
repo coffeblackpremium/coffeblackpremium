@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jdamaceno19)
 
 
-![coffeblackpremium GitHub stats](https://github-readme-stats.vercel.app/api?username=coffeblackpremium&show_icons=true&theme=dark)
+![coffeblackpremium GitHub stats](https://github-readme-stats.vercel.app/api?username=coffeblackpremium&show_icons=true&theme=darcula)
 
 
 ## Technologies used
