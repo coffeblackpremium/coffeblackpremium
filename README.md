@@ -4,8 +4,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jdamaceno19)
 
 
-![coffeblackpremium GitHub stats](https://github-readme-stats.vercel.app/api?username=coffeblackpremium&show_icons=true&theme=dracula)
-
+![coffeblackpremium GitHub stats](https://github-readme-stats.vercel.app/api?username=coffeblackpremium&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coffeblackpremium&layout=compact)](https://github.com/coffeblackpremium/github-readme-stats)
 
 ## Technologies used
 
@@ -24,5 +23,4 @@ Love for technology, seeking to always improve and seek the best possible result
 <br>
 <br>
 <p><i>Water can drip and it can crash. Become like water my friend. </i> - Bruce lee</p>
-
 ##
