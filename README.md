@@ -6,7 +6,7 @@
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coffeblackpremium&show_icons=true&theme=dracula" /> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffeblackpremium&theme=draculak&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffeblackpremium&theme=dracula&layout=compact"/>
 </div>
 
 ## Technologies used
