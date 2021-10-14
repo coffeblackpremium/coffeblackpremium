@@ -23,5 +23,5 @@
 Love for technology, seeking to always improve and seek the best possible result 
 <br>
 <br>
-<p><i>Be water, my friend. </i> - Bruce lee</p>
+<p><i>"Be water, my friend." </i> - Bruce lee</p>
 <img height="90em" align="center" alt="all-might" src="https://giffiles.alphacoders.com/103/103147.gif" />
