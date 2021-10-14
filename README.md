@@ -23,6 +23,5 @@
 Love for technology, seeking to always improve and seek the best possible result 
 <br>
 <br>
-<p><i>e formless, shapeless, like water. Put water into a cup, it becomes the cup. Put water into a teapot, it becomes the teapot. Water can flow or creep or drip or crash. 
-Be water, my friend. </i> - Bruce lee</p>
+<p><i>Be water, my friend. </i> - Bruce lee</p>
 <img height="90em" align="center" alt="all-might" src="https://giffiles.alphacoders.com/103/103147.gif" />
