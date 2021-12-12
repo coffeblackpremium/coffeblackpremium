@@ -6,8 +6,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/joaodamaceno)
 
 <div style="display: inline-block">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=coffeblackpremium&show_icons=true&theme=dracula" style="display:inline" /> 
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffeblackpremium&theme=dracula&layout=compact" style="display:inline"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=coffeblackpremium&show_icons=true&theme=dracula" style="display:inline" /> 
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffeblackpremium&theme=dracula&layout=compact" style="display:inline"/>
 </div>
 
 ## Technologies used
