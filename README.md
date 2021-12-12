@@ -21,7 +21,7 @@
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img align="center" alt="manjaro" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
 </div>
-<p style="margin: 10px 0 0 0;">Love for technology, seeking to always improve and seek the best possible result </p>
+<p style="margin: 20px 0 0 0;">Love for technology, seeking to always improve and seek the best possible result </p>
 <br>
 <br>
 <p><i>"Be water, my friend." </i> - Bruce lee</p>
