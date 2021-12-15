@@ -15,9 +15,11 @@
 
 ## Minhas skills :nerd_face:
 <div align="center">
-    <img style="padding: 50px;" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" >
-    <img style="padding: 50px;" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" >
-    <img style="padding: 50px;" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" >
+    <img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" >
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" >
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" >
 </div>
 
 ## Meus contatos :iphone:
