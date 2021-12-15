@@ -10,16 +10,16 @@
 <p> - 👨‍💻 Estudante de Análise e Desenvolvimento da Computação, atualmente cursando 1°Semestre </p>
 <p> - 🎯 Interesse: Python, Django, REST API, AWS, Docker . </p>
 <p> - 🤖 uma curiosidade é queTalvez este seja um dos meus hobbies favoritos, ficar pesquisando vídeos no YouTube de como posso deixar meu Linux mais bonitoo
-(Amigos, já ouviram falar da Iniciativa I3wm? 
+(Amigos, já ouviram falar da Iniciativa I3wm? )
 </div>
 
 ## Minhas skills :nerd_face:
 <div align="center">
-    <img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" >
+    <img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" >
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" >
+    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" >
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" >
+    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" >
 </div>
 
 ## Meus contatos :iphone:
