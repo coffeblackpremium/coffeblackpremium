@@ -1,25 +1,14 @@
-
-### Hi, my name is João Damaceno 👋
-<p> 
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jdamaceno19)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/joaodamaceno)
-
 <div style="display: inline-block; padding: 5px;">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=coffeblackpremium&show_icons=true&theme=dracula" style="display:inline" /> 
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffeblackpremium&theme=dracula&layout=compact" style="display:inline"/>
 </div>
-## Olá, eu sou o Mateus! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+<h2>Oooi, eu Sou o João!!! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Sobre mim
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
-<p> - 👨‍💻 Engenheiro de Software Jr no Itaú Unibanco. </p>
-<p> - 👨‍🎓 Estudante de Ciência da computação, atualmente estou cursando o 6° semestre. </p>
-<p> - 🎯 Interesse: Java, Kotlin, Spring Boot, Micronaut, API , HTML, CSS, JavaScript, Angular, AWS e Docker . </p>
-<p> - 🦊 Quando me perguntaram o que eu queria ser ? há um tempo atrás a minha resposta foi "SER HOKAGE" e hoje eu sou um engenheiro de software, nada haver kkk. Sou fã do anime Naruto , eaê, bora assistir uns filler juntos ? </p>
-<p> - 🎮 Gosta de jogar Free fire? É só chamar, vamos subir de patente juntos ou não hehehe </p>
-  
+<p> - 👨‍💻 Estudante de Análise e Desenvolvimento da Computação, atualmente cursando 1°Semestre </p>
+<p> - 🎯 Interesse: Python, Django, REST API, AWS, Docker . </p>
 </div>
 
 ## Minhas skills :nerd_face:
@@ -56,5 +45,7 @@
  </p>
 
 </p>
-
+<br>
+<br>
+<p><i>"Be water, My Friend!" - Bruce lee</i></p>
 <img height="90em" align="center" alt="all-might" src="https://giffiles.alphacoders.com/103/103147.gif" />
