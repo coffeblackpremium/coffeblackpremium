@@ -2,7 +2,7 @@
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=coffeblackpremium&show_icons=true&theme=dracula" style="display:inline" /> 
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffeblackpremium&theme=dracula&layout=compact" style="display:inline"/>
 </div>
-<h2>Oooi, eu Sou o João!!! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+<h2>Oooi, eu Sou o João!!! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="15px"></h2>
 
 ### Sobre mim
 <div style="display: inline_block"  >
