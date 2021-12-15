@@ -6,7 +6,7 @@
 
 ### Sobre mim
 <div style="display: inline_block"  >
-<img align="right" width="250" height="250" style="border-radius:30px;" src="https://github.com/coffeblackpremium/coffeblackpremium/blob/main/all-might-plus-ultra.gif=true" />
+<img align="right" width="250" height="250" style="border-radius:30px;" src="https://github.com/coffeblackpremium/coffeblackpremium/blob/main/all-might-plus-ultra.gif" />
 <p> - 👨‍💻 Estudante de Análise e Desenvolvimento da Computação, atualmente cursando 1°Semestre </p>
 <p> - 🎯 Interesse: Python, Django, REST API, AWS, Docker . </p>
 </div>
