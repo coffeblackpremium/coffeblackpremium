@@ -54,5 +54,5 @@
 </p>
 <br>
 <br>
-<p><i>"Be water, My Friend!" - Bruce lee</i></p>
+<p align="center"><i>"Be water, My Friend!" - Bruce lee</i></p>
 <img height="90em" align="center" alt="all-might" src="https://giffiles.alphacoders.com/103/103147.gif" />
