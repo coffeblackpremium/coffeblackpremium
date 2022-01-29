@@ -13,7 +13,6 @@
 (Amigos, já ouviram falar da Iniciativa I3wm? )
 </div>
 
-
 ## Minhas skills :nerd_face:
 <div align="center">
     <img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" >
