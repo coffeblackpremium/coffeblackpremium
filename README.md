@@ -56,5 +56,5 @@
 <br>
 <br>
 <p align="center"><i>"Be water, My Friend!" - Bruce lee</i></p>
-<img style="margin-left:auto; margin-right: auto; float: none;" height="150" width="100%" alt="all-might" src="https://giffiles.alphacoders.com/103/103147.gif" />
+<img style="margin-left:auto; margin-right: auto; float: none;" height="250" width="100%" alt="all-might" src="https://giffiles.alphacoders.com/103/103147.gif" />
 
