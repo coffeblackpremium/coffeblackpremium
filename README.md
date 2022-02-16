@@ -24,6 +24,8 @@
     <img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="CSS" >
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" >
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" />
     
  
 </div>
