@@ -10,7 +10,7 @@
 <p> - 👨‍💻 Estudante de Análise e Desenvolvimento de Sistema, atualmente cursando 2°Semestre </p>
 <p> - 🎯 Interesse: Docker, AWS, REST API, React e React Native . </p>
 <p> - :robot: Tech Hard-Skills: Php, Laravel, Python, Django, Django Rest, JavaScript,C, HTML, CSS, React JS, Mysql, PostgreSql </p>
-<p> - :heavy_check_mark: Objetivos: Ter a minha primeira oportunidade como Desenvolvedor
+<p> - :heavy_check_mark: Objetivos: Ter a minha primeira oportunidade de trabalhar como Desenvolvedor
 </div>
 
 ## Minhas skills :nerd_face:
