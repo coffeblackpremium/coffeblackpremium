@@ -6,7 +6,7 @@
 
 ### Sobre mim
 <div style="display: inline_block"  >
-<img align="right" width="250" height="250" style="border-radius:30px;" src="https://github.com/coffeblackpremium/coffeblackpremium/blob/main/all-might-plus-ultra.gif" />
+<img align="right" width="150" height="150" style="border-radius:30px;" src="https://github.com/coffeblackpremium/coffeblackpremium/blob/main/all-might-plus-ultra.gif" />
 <p> - 👨‍💻 Estudante de Análise e Desenvolvimento de Sistema, atualmente cursando 2°Semestre </p>
 <p> - 🎯 Interesse: Python, Django, REST API, React e React Native . </p>
 <p> - 🤖 uma curiosidade é que este seja um dos meus hobbies favoritos, ficar pesquisando vídeos no YouTube de como posso deixar meu Linux mais bonitoo
