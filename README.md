@@ -6,10 +6,9 @@
 
 ### Sobre mim
 <div style="display: inline_block"  >
-<img align="right" width="150" height="150" style="border-radius:30px;" src="https://github.com/coffeblackpremium/coffeblackpremium/blob/main/all-might-plus-ultra.gif" />
-<p> - 👨‍💻 Estudante de Análise e Desenvolvimento de Sistema, atualmente cursando 3°Semestre </p>
-<p> - 🎯 Interesse: Docker, Java, REST API, Spring e Spring Boot. </p>
-<p> - :heavy_check_mark: Objetivos: Ter a minha primeira oportunidade de trabalhar como Desenvolvedor
+    <img align="right" width="150" height="150" style="border-radius:30px;" src="https://github.com/coffeblackpremium/coffeblackpremium/blob/main/all-might-plus-ultra.gif" />
+    <p> - 👨‍💻 Estudante de Análise e Desenvolvimento de Sistema, atualmente cursando 3°Semestre </p>
+    <p> - 🎯 Interesse: Php, Docker, Web Backend. </p>
 </div>
 
 ## Minhas skills :nerd_face:
