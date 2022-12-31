@@ -7,7 +7,7 @@
 ### Sobre mim
 <div style="display: inline_block"  >
     <img align="right" width="150" height="150" style="border-radius:30px;" src="https://github.com/coffeblackpremium/coffeblackpremium/blob/main/all-might-plus-ultra.gif" />
-    <p> - 👨‍💻 Estudante de Análise e Desenvolvimento de Sistema, atualmente cursando 3°Semestre </p>
+    <p> - 👨‍💻 Estudante de Análise e Desenvolvimento de Sistema, atualmente cursando 4°Semestre </p>
     <p> - 🎯 Interesse: Php, Docker, Web Backend. </p>
 </div>
 
